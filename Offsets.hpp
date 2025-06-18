@@ -17,4 +17,5 @@ uintptr_t PawnPrivate = 0x3B0;
 uintptr_t Tier = 0x169;
 uintptr_t WeaponData = 0x388;
 uintptr_t CurrentWeapon  = 0x7F0;
+uintptr_t GObjects = 0x5425940 // internal pasters incoming!
 }
