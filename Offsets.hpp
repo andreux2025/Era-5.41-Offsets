@@ -15,6 +15,6 @@ uintptr_t TeamIndex = 0xB90;// made by andreu fixed dumper 7 size trust my ass
 uintptr_t Specator = 0x356;// made by andreu fixed dumper 7 size trust my ass
 uintptr_t PawnPrivate = 0x3B0;
 uintptr_t Tier = 0x169;
-uintptr_t WeaponData = 0x0388;
+uintptr_t WeaponData = 0x388;
 uintptr_t CurrentWeapon  = 0x7F0;
 }
