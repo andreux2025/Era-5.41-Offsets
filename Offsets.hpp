@@ -13,4 +13,5 @@ uintptr_t LocationUnderReticle = 0x1630; // triggerbot
 uintptr_t OwningGameInstance = 0x190;// made by andreu fixed dumper 7 size trust my ass
 uintptr_t TeamIndex = 0xB90;// made by andreu fixed dumper 7 size trust my ass
 uintptr_t Specator = 0x356;// made by andreu fixed dumper 7 size trust my ass
+uintptr_t PawnPrivate = 0x3B0;
 }
