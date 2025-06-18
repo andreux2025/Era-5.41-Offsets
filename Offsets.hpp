@@ -9,4 +9,6 @@ uintptr_t AcknowledgedPawn = 0x3B0; // local pawn for retardeds
 uintptr_t PlayerCameraManager = 0x3C8;
 uintptr_t Mesh = 0x388;
 uintptr_t OwningGameInstance = 0x190;
+uintptr_t LocationUnderReticle = 0x1630; // triggerbot
+uintptr_t OwningGameInstance = 0x190;
 }
